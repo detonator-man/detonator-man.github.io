@@ -1,0 +1,9 @@
+table, th, td {
+  border: 1px dash red;
+  border-collapse: collapse;
+}
+body {
+  margin: 32px 350px 32px 350px;
+  line-height: 1.5;
+}
+
